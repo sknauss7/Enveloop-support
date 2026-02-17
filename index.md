@@ -93,12 +93,10 @@
         <div class="app-icon">📊</div>
         <h1>Enveloop Support</h1>
         <p style="font-size: 1.2em; color: #666;">Smart envelope budgeting for your peace of mind</p>
-
         <div class="contact-box">
             <p style="margin-bottom: 10px;">Need help? Have feedback? We'd love to hear from you!</p>
-            <p>📧 Email: <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+            <p>📧 Email: <a href="mailto:kynossstudios@gmail.com">kynossstudios@gmail.com</a></p>
         </div>
-
         <h2>Getting Started</h2>
         <p>Enveloop helps you budget using the envelope method. Here's how to get started:</p>
         <ol>
@@ -108,54 +106,43 @@
             <li><strong>Track Progress:</strong> Watch your envelopes fill up over time</li>
             <li><strong>Pay Bills:</strong> When it's time to pay, swipe left on a bill and tap "Pay"</li>
         </ol>
-
         <h2>Frequently Asked Questions</h2>
-
         <div class="faq">
             <h3>How does the envelope system work?</h3>
             <p>Enveloop calculates how much you need to set aside from each paycheck for every bill. For example, if you have a $600 car insurance bill due in 3 months and you get paid biweekly, Enveloop divides $600 by the 6 remaining paychecks = $100 per paycheck.</p>
         </div>
-
         <div class="faq">
             <h3>Can I manually adjust envelope amounts?</h3>
             <p>Yes! Tap any bill to view details, then tap the "Edit" button next to Envelope Progress to manually adjust the allocated amount.</p>
         </div>
-
         <div class="faq">
             <h3>Where is my data stored?</h3>
             <p>All your data is stored locally on your device using Apple's SwiftData framework. We never collect, transmit, or have access to your information.</p>
         </div>
-
         <div class="faq">
             <h3>How do I enable dark mode?</h3>
             <p>Go to Settings → Appearance and choose between System, Light, or Dark mode.</p>
         </div>
-
         <div class="faq">
             <h3>What if I paid part of a bill early?</h3>
             <p>Tap the bill, then tap "Edit" next to the envelope progress to reduce the allocated amount. Enveloop will adjust future allocations automatically.</p>
         </div>
-
         <div class="faq">
             <h3>Can I change my paycheck information?</h3>
             <p>Yes! Go to Settings and update your paycheck amount, frequency, or next pay date at any time.</p>
         </div>
-
         <div class="faq">
             <h3>How do I delete all my data?</h3>
             <p>Go to Settings → Data → Reset All Data. This will erase everything and return you to onboarding.</p>
         </div>
-
         <div class="faq">
             <h3>What pay frequencies are supported?</h3>
             <p>Enveloop supports Weekly, Biweekly (every 2 weeks), Semi-Monthly (twice a month), and Monthly pay schedules.</p>
         </div>
-
         <div class="faq">
             <h3>What bill frequencies are supported?</h3>
             <p>You can add bills that recur Weekly, Biweekly, Monthly, Quarterly, Semi-Annually, or Annually.</p>
         </div>
-
         <h2>Feature Requests & Bug Reports</h2>
         <p>Found a bug? Have an idea for a feature? We want to hear about it! Email us with:</p>
         <ul>
@@ -164,13 +151,11 @@
             <li>Steps to reproduce (for bugs)</li>
             <li>Screenshots if applicable</li>
         </ul>
-
         <h2>Privacy</h2>
         <p>Your privacy is our priority. Enveloop collects zero data. Everything stays on your device. <a href="https://yourusername.github.io/enveloop-privacy/">Read our Privacy Policy</a></p>
-
         <div class="contact-box" style="margin-top: 40px;">
             <p><strong>Still need help?</strong></p>
-            <p>📧 Email us at: <a href="mailto:support@yourdomain.com">support@yourdomain.com</a></p>
+            <p>📧 Email us at: <a href="mailto:kynossstudios@gmail.com">kynossstudios@gmail.com</a></p>
             <p style="margin-bottom: 0; color: #666; font-size: 0.9em;">We typically respond within 24-48 hours.</p>
         </div>
     </div>
